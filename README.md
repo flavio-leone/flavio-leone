@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Flavio Leone 😁
+## Bem-vindo(a) ao perfil de Flavio Leone 😁
 
  <div>
    <a href="https://github.com/flavio-leone">
